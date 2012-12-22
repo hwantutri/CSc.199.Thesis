@@ -1,0 +1,161 @@
+/*
+	   *  Your created style here.
+	   *  Author       : Cherry Mae Fuentes
+	   *  Date created : November 5,2012
+       *  Date modified: November 5,2012
+	   */
+	  body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+	  form {
+	  margin: 0 0 5px;
+	  }
+	  
+	  fieldset {
+	  padding: 0; 
+	  margin-left: 5px;
+	  border: 0;
+	  }
+	  
+	  p{
+	  
+	  font-size: 16px;}
+	  
+	  hr{
+	  margin-top:10px;
+	  }
+	  
+	  .row{
+	  margin-bottom:20px;
+	  }
+	  
+	  /*.row[class*="span"]{
+	  background:gray;
+	  }
+	  .span4{
+	  background:gray;}
+	  .span6 {
+	  background:gray;}*/
+	  
+	  .container{
+	  
+	  }
+	  
+	  .brand{
+	  position: relative;
+	  margin: -7px 0px -7px 0px;
+	 }
+	 .navbar-form{
+	 width:180px;
+	 margin-right:0px;
+	 }
+	 .spacing{
+	 margin-right:52px;
+	 }
+	 
+	 .span4{
+	 border: 1px;
+	 border-radius: 5px;
+	/*  background: #E0E0E0; */
+	 }
+	 
+	 .span1 .form-profile{
+	
+	 position: relative;
+	 *width: 310px;
+	 border: 1px;
+	 border-radius: 5px;
+	 background: #E0E0E0;
+	 }
+
+	 .form-timeline{
+	 
+	 *margin: 0px 0px 0px 10px;
+	 padding: 5px;
+	 *width: 550px;
+	 min-height: 500px;
+	 border: 1px;
+	 border-radius: 5px;
+	 *background: #E0E0E0; 
+	 }
+	 .timeline-title{
+	 font-size: 16px;
+	 margin: 5px 5px 5px 5px;
+	 }
+	 .prof-pic{
+	 margin: 10px 0px 10px 0px;
+	 }
+	 
+	 .prof-info{
+	 *margin: 15px 1px 1px 0px;
+	 font-size: 14px; 
+	 }
+	 .show-grid {
+	  margin-top: 0px;
+	  margin-bottom: 20px;
+	  margin-left: 0px;
+	  }
+	  .muted{
+	  font-size: 12px;
+	  }
+	  .divider{
+	  color:gray;}
+	  .span4{
+	  float: left;
+	  position: relative;
+	  *width: 310px;
+	  border: 1px;
+	  border-radius: 5px; 
+	  }
+	  .recommendation-title{
+	 font-size: 16px;
+	 margin: 10px 5px 5px 10px;
+	 }
+	 
+	 .background1 {
+		background: #E0E0E0;
+	 }
+	 
+	 .profile-circle {
+		border-radius:5px;
+	 }
+	 .links{
+	font-family:Arial, sans-serif;
+	font-size: 12px;
+	color: gray;}
+	
+	.form-tracks{
+	float: left;
+	 position: relative;
+	 *margin: 0px 0px 0px 10px;
+	 padding: 5px;
+	 width: 550px;
+	 min-height: 500px;
+	 border: 1px;
+	 border-radius: 5px;
+	 *background: #E0E0E0; 
+	 }
+	 .adjustment1{
+	 margin: 15px 1px 1px 0px;}
+	 .font1{
+	 font-size: 13px;}
+	 .font2{
+	 font-size: 11px;}
+	 .adjustment{
+	 margin: 15px 0px 15px 25px;}
+	 .list-friends{
+	 border: 1px;
+	 border-radius:5px;}
+	 .friends-title{
+	 font-size: 16px;
+	 margin: 10px 5px 10px 40px;}
+	 .background2{
+	 background:#a1a1a1;
+	 height:120px;
+	 border-radius:5px;
+	 margin-right:30px;
+	 margin-left:20px}
+	 .lists{
+	 margin-left:40px;
+	 }
